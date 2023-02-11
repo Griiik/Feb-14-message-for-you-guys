@@ -4,11 +4,6 @@
     margin: 0;
 }
 
-body {
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 /*the div of the asking where the viewer is ready for continueing the website*/
 .Readydiv {
     position: absolute;
