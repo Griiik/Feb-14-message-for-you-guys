@@ -4,6 +4,13 @@
     margin: 0;
 }
 
+.background {
+    background-image: url("https://github.com/Griiik/Feb-14-message-for-you-guys/blob/main/Feb%2014%20project/1st%20link%20img/Background.jpg?raw=true");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
 /*the div of the asking where the viewer is ready for continueing the website*/
 .Readydiv {
     position: absolute;
