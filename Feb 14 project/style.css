@@ -8,7 +8,8 @@
     background-image: url("https://github.com/Griiik/Feb-14-message-for-you-guys/blob/main/Feb%2014%20project/1st%20link%20img/Background.jpg?raw=true");
     background-size: contain;
     background-repeat: no-repeat;
-    height: 100vh;
+    width: 1280px;
+    height: 600px;
 }
 
 /*the div of the asking where the viewer is ready for continueing the website*/
